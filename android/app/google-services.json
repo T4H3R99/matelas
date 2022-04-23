@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124152476460",
+    "project_id": "matelas-8440b",
+    "storage_bucket": "matelas-8440b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124152476460:android:3bae93ded37ad23a513289",
+        "android_client_info": {
+          "package_name": "com.example.matelas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124152476460-4h4d8lriftsl92d3rmm6f7mk38pqosrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMFE3zUdkWqi7RkRvXcAx-R16cwW6Yo8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124152476460-4h4d8lriftsl92d3rmm6f7mk38pqosrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
